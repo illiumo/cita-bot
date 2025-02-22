@@ -1,0 +1,3458 @@
+{
+    "Cantabria": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "FAMILIARES DE RESIDENTES COMUNITARIOS",
+                "valor": "7"
+            },
+            {
+                "nombre": "INFORMACIÓN",
+                "valor": "4009"
+            },
+            {
+                "nombre": "RENOVACIONES, PRÓRROGAS Y MODIFICACIONES",
+                "valor": "4059"
+            },
+            {
+                "nombre": "RESIDENCIA INICIAL",
+                "valor": "23"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA - TÍTULOS DE VIAJE",
+                "valor": "4092"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA - CÉDULA DE INSCRIPCIÓN",
+                "valor": "4099"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-RECOGIDA DE TARJETA ROJA (PROTECCIÓN INTERNACIONAL)",
+                "valor": "4086"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Málaga": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "Trámite para la documentación de nacionales del Reino Unido (Brexit)",
+                "valor": "4069"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA - TÍTULOS DE VIAJE",
+                "valor": "4092"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-ASILO INFORMACION",
+                "valor": "4089"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA - CÉDULA DE INSCRIPCIÓN",
+                "valor": "4099"
+            },
+            {
+                "nombre": "POLICÍA - SOLICITUD DE APATRIDA",
+                "valor": "4103"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-RECOGIDA CERTIFICADO Y AUTORIZACIÓN DE REGRESO",
+                "valor": "4087"
+            },
+            {
+                "nombre": "POLICÍA-RECOGIDA DE TARJETA ROJA (PROTECCIÓN INTERNACIONAL)",
+                "valor": "4086"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "León": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - CERTIFICADOS CONCORDANCIA",
+                "valor": "4118"
+            },
+            {
+                "nombre": "POLICIA - COMUNICACIÓN DE CAMBIO DE DOMICILIO",
+                "valor": "4093"
+            },
+            {
+                "nombre": "POLICIA - OTROS TRÁMITES COMISARIA",
+                "valor": "8"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA - TÍTULOS DE VIAJE",
+                "valor": "4092"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE (NO COMUNITARIOS)",
+                "valor": "4079"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITUD DE APATRIDIA",
+                "valor": "4077"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Segovia": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "INFORMACIÓN",
+                "valor": "4009"
+            },
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA - UCRANIA : SOLICITUD PROTECCIÓN TEMPORAL DESPLAZADOS",
+                "valor": "4111"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Ceuta": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - COMUNICACIÓN DE CAMBIO DE DOMICILIO",
+                "valor": "4093"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICÍA - UCRANIA : SOLICITUD PROTECCIÓN TEMPORAL DESPLAZADOS",
+                "valor": "4111"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Gipuzkoa": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA - TÍTULOS DE VIAJE",
+                "valor": "4092"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICÍA - SOLICITUD DE APATRIDA",
+                "valor": "4103"
+            },
+            {
+                "nombre": "POLICÍA - UCRANIA : SOLICITUD PROTECCIÓN TEMPORAL DESPLAZADOS",
+                "valor": "4111"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Jaén": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICÍA - SOLICITUD DE APATRIDA",
+                "valor": "4103"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITUD DE APATRIDIA",
+                "valor": "4077"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Madrid": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "ASILO - PRIMERA CITA-provincia de Madrid",
+                "valor": "4104"
+            },
+            {
+                "nombre": "AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE N.I.E.",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "Policía-Documento acreditativo solicitante,en tramitación,de protección internacional (tarjeta roja)",
+                "valor": "4082"
+            },
+            {
+                "nombre": "POLICÍA-EXP.TARJETA ASOCIADA AL ACUERDO DE RETIRADA CIUDADANOS BRITÁNICOS Y SUS FAMILIARES (BREXIT)",
+                "valor": "4094"
+            },
+            {
+                "nombre": "POLICÍA-EXPEDICIÓN DE TARJETAS CUYA AUTORIZACIÓN RESUELVE LA DIRECCIÓN GENERAL DE GESTIÓN MIGRATORIA",
+                "valor": "4047"
+            },
+            {
+                "nombre": "POLICÍA-PRORROGA DE ESTANCIA",
+                "valor": "4124"
+            },
+            {
+                "nombre": "POLICÍA-RECOGIDA DE LA TIE CUYA AUTORIZACIÓN RESUELVE LA DIRECCIÓN GENERAL DE GESTIÓN MIGRATORIA",
+                "valor": "4088"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ],
+        "tramites_policia_nacional": []
+    },
+    "Ciudad Real": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "INFORMACIÓN",
+                "valor": "4009"
+            },
+            {
+                "nombre": "RENOVACIONES, PRÓRROGAS Y MODIFICACIONES",
+                "valor": "4059"
+            },
+            {
+                "nombre": "Residencia Inicial",
+                "valor": "23"
+            },
+            {
+                "nombre": "RESIDENCIA LARGA DURACIÓN",
+                "valor": "30"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - OTROS TRÁMITES COMISARIA",
+                "valor": "8"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Valladolid": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "INFORMACIÓN",
+                "valor": "4009"
+            },
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - OTROS TRÁMITES COMISARIA",
+                "valor": "8"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Teruel": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "S.Cruz Tenerife": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "AUTORIZACIÓN DE REGRESO - TENERIFE",
+                "valor": "4070"
+            },
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES - ISLA DE LA PALMA",
+                "valor": "4068"
+            },
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES - TENERIFE",
+                "valor": "4071"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - COMUNICACIÓN DE CAMBIO DE DOMICILIO",
+                "valor": "4093"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA - CÉDULA DE INSCRIPCIÓN",
+                "valor": "4099"
+            },
+            {
+                "nombre": "POLICÍA - PRORROGA DE ESTANCIA SIN VISADO",
+                "valor": "4091"
+            },
+            {
+                "nombre": "POLICÍA - SOLICITUD DE APATRIDA",
+                "valor": "4103"
+            },
+            {
+                "nombre": "POLICÍA - UCRANIA : SOLICITUD PROTECCIÓN TEMPORAL DESPLAZADOS",
+                "valor": "4111"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-RECOGIDA DE TARJETA ROJA (PROTECCIÓN INTERNACIONAL)",
+                "valor": "4086"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Soria": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "AUT. DE RESIDENCIA TEMPORAL POR CIRCUNS. EXCEPCIONALES POR ARRAIGO",
+                "valor": "10"
+            },
+            {
+                "nombre": "AUTORIZACIONES INICIALES DE TRABAJO",
+                "valor": "4072"
+            },
+            {
+                "nombre": "FAMILIARES DE RESIDENTES COMUNITARIOS",
+                "valor": "7"
+            },
+            {
+                "nombre": "INFORMACIÓN",
+                "valor": "4009"
+            },
+            {
+                "nombre": "REAGRUPACIÓN FAMILIAR",
+                "valor": "3"
+            },
+            {
+                "nombre": "REGISTRO",
+                "valor": "4081"
+            },
+            {
+                "nombre": "RENOVACIONES, PRÓRROGAS Y MODIFICACIONES",
+                "valor": "4059"
+            },
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - CERTIFICADOS CONCORDANCIA",
+                "valor": "4118"
+            },
+            {
+                "nombre": "POLICIA - COMUNICACIÓN DE CAMBIO DE DOMICILIO",
+                "valor": "4093"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA - TÍTULOS DE VIAJE",
+                "valor": "4092"
+            },
+            {
+                "nombre": "POLICIA- RESGUARDO PRÓRROGA DE DERECHOS POR RECURSO ADMINISTRATIVO O JUDICIAL ASILO",
+                "valor": "4117"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS UE",
+                "valor": "22"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA - UCRANIA : SOLICITUD PROTECCIÓN TEMPORAL DESPLAZADOS",
+                "valor": "4111"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-RECOGIDA DE TARJETA ROJA (PROTECCIÓN INTERNACIONAL)",
+                "valor": "4086"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Granada": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - CERTIFICADOS CONCORDANCIA",
+                "valor": "4118"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA - TÍTULOS DE VIAJE",
+                "valor": "4092"
+            },
+            {
+                "nombre": "POLICIA- RESGUARDO PRÓRROGA DE DERECHOS POR RECURSO ADMINISTRATIVO O JUDICIAL ASILO",
+                "valor": "4117"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICÍA - CÉDULA DE INSCRIPCIÓN",
+                "valor": "4099"
+            },
+            {
+                "nombre": "POLICÍA - PRORROGA DE ESTANCIA CON VISADO",
+                "valor": "4090"
+            },
+            {
+                "nombre": "POLICÍA - PRORROGA DE ESTANCIA SIN VISADO",
+                "valor": "4091"
+            },
+            {
+                "nombre": "POLICÍA - SOLICITUD DE APATRIDA",
+                "valor": "4103"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-DECLARACIÓN DE ENTRADA",
+                "valor": "4084"
+            },
+            {
+                "nombre": "POLICÍA-SOLICITUD TARJETA ROJA",
+                "valor": "4123"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Ávila": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - COMUNICACIÓN DE CAMBIO DE DOMICILIO",
+                "valor": "4093"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA - TÍTULOS DE VIAJE",
+                "valor": "4092"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA - CÉDULA DE INSCRIPCIÓN",
+                "valor": "4099"
+            },
+            {
+                "nombre": "POLICÍA - SOLICITUD DE APATRIDA",
+                "valor": "4103"
+            },
+            {
+                "nombre": "POLICÍA - UCRANIA : SOLICITUD PROTECCIÓN TEMPORAL DESPLAZADOS",
+                "valor": "4111"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Zamora": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "INFORMACIÓN",
+                "valor": "4009"
+            },
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS UE",
+                "valor": "22"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "La Rioja": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "AUT. DE RESIDENCIA TEMPORAL POR CIRCUNS. EXCEPCIONALES POR ARRAIGO",
+                "valor": "10"
+            },
+            {
+                "nombre": "AUT. DE RESIDENCIA TEMPORAL POR CIRCUNS.EXCEPCIONALES ARRAIGO FAMILIAR",
+                "valor": "4014"
+            },
+            {
+                "nombre": "AUTORIZACIÓN DE RESIDENCIA DE MENORES NACIDOS EN ESPAÑA, HIJOS DE RESIDENTES",
+                "valor": "28"
+            },
+            {
+                "nombre": "FAMILIAR DE COMUNITARIO",
+                "valor": "4060"
+            },
+            {
+                "nombre": "INFORMACIÓN",
+                "valor": "4009"
+            },
+            {
+                "nombre": "REAGRUPACIÓN FAMILIAR",
+                "valor": "3"
+            },
+            {
+                "nombre": "REGISTRO",
+                "valor": "4081"
+            },
+            {
+                "nombre": "RENOVACIONES, PRÓRROGAS Y MODIFICACIONES",
+                "valor": "4059"
+            },
+            {
+                "nombre": "Resid. Menores NO nacidos en España",
+                "valor": "15"
+            },
+            {
+                "nombre": "Trámites para la documentación de nacionales de la Unión Europea",
+                "valor": "4080"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS UE",
+                "valor": "22"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Asturias": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "AUTORIZACIÓN DE RESIDENCIA TEMPORAL POR CIRCUNSTANCIAS EXCEPCIONALES POR ARRAIGO",
+                "valor": "10"
+            },
+            {
+                "nombre": "FAMILIARES DE RESIDENTES COMUNITARIOS",
+                "valor": "4060"
+            },
+            {
+                "nombre": "INFORMACIÓN",
+                "valor": "4009"
+            },
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - COMUNICACIÓN DE CAMBIO DE DOMICILIO",
+                "valor": "4093"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA - TÍTULOS DE VIAJE",
+                "valor": "4092"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Lleida": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "AUT. DE RESIDENCIA TEMPORAL POR CIRCUNS. EXCEPCIONALES POR ARRAIGO",
+                "valor": "10"
+            },
+            {
+                "nombre": "AUT. RESIDENCIA POR OTRAS CIRCUNSTANCIAS EXCEPCIONALES",
+                "valor": "4004"
+            },
+            {
+                "nombre": "AUTORIZACIONES DE RESIDENCIA PARA MENORES NO ACOMPAÑADOS Y EXTUTELADOS",
+                "valor": "4108"
+            },
+            {
+                "nombre": "AUTORIZACIÓN DE RESIDENCIA DE MENORES NACIDOS EN ESPAÑA, HIJOS DE RESIDENTES",
+                "valor": "28"
+            },
+            {
+                "nombre": "FAMILIARES DE RESIDENTES COMUNITARIOS",
+                "valor": "7"
+            },
+            {
+                "nombre": "REAGRUPACIÓN FAMILIAR",
+                "valor": "3"
+            },
+            {
+                "nombre": "Recuperación de la autorización de larga duración",
+                "valor": "4034"
+            },
+            {
+                "nombre": "RENOVACIONES, PRÓRROGAS, MODIFICACIONES Y RESIDENCIA DE LARGA DURACION",
+                "valor": "4059"
+            },
+            {
+                "nombre": "Resid. Menores NO nacidos en España",
+                "valor": "15"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-ASILO INFORMACION",
+                "valor": "4089"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-Expedición de Carta de Invitación",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICÍA - CÉDULA DE INSCRIPCIÓN",
+                "valor": "4099"
+            },
+            {
+                "nombre": "POLICÍA - PRORROGA DE ESTANCIA CON VISADO",
+                "valor": "4090"
+            },
+            {
+                "nombre": "POLICÍA - SOLICITUD DE APATRIDA",
+                "valor": "4103"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Badajoz": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "INFORMACIÓN",
+                "valor": "4009"
+            },
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA - TÍTULOS DE VIAJE",
+                "valor": "4092"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-ASILO INFORMACION",
+                "valor": "4089"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-RECOGIDA CERTIFICADO Y AUTORIZACIÓN DE REGRESO",
+                "valor": "4087"
+            },
+            {
+                "nombre": "POLICÍA-RECOGIDA DE TARJETA ROJA (PROTECCIÓN INTERNACIONAL)",
+                "valor": "4086"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Cádiz": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "INFORMACIÓN",
+                "valor": "4009"
+            },
+            {
+                "nombre": "REAGRUPACIÓN FAMILIAR",
+                "valor": "3"
+            },
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - OTROS TRÁMITES COMISARIA",
+                "valor": "8"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA - TÍTULOS DE VIAJE",
+                "valor": "4092"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE (NO COMUNITARIOS)",
+                "valor": "4079"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-EXP.TARJETA ASOCIADA AL ACUERDO DE RETIRADA CIUDADANOS BRITÁNICOS Y SUS FAMILIARES (BREXIT)",
+                "valor": "4094"
+            },
+            {
+                "nombre": "POLICÍA-EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITUD DE APATRIDIA",
+                "valor": "4077"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Huelva": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "AUTORIZACIÓN DE REGRESO",
+                "valor": "4058"
+            },
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            },
+            {
+                "nombre": "Trámites para la documentación de nacionales de la Unión Europea",
+                "valor": "4080"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA - TÍTULOS DE VIAJE",
+                "valor": "4092"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- RESGUARDO PRÓRROGA DE DERECHOS POR RECURSO ADMINISTRATIVO O JUDICIAL ASILO",
+                "valor": "4117"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICÍA - CÉDULA DE INSCRIPCIÓN",
+                "valor": "4099"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITUD DE APATRIDIA",
+                "valor": "4077"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Illes Balears": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "INFORMACIÓN GENERAL - IBIZA",
+                "valor": "4051"
+            },
+            {
+                "nombre": "RENOVACIONES, PRÓRROGAS Y MODIFICACIONES",
+                "valor": "4059"
+            },
+            {
+                "nombre": "SOLICITUD AUTORIZACIONES - IBIZA",
+                "valor": "4053"
+            },
+            {
+                "nombre": "SOLICITUD AUTORIZACIONES - MALLORCA",
+                "valor": "4052"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA - TÍTULOS DE VIAJE",
+                "valor": "4092"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA - CÉDULA DE INSCRIPCIÓN",
+                "valor": "4099"
+            },
+            {
+                "nombre": "POLICÍA - PRORROGA DE ESTANCIA CON VISADO",
+                "valor": "4090"
+            },
+            {
+                "nombre": "POLICÍA - PRORROGA DE ESTANCIA SIN VISADO",
+                "valor": "4091"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-EXPEDICIÓN DE TARJETAS CUYA AUTORIZACIÓN RESUELVE LA DIRECCIÓN GENERAL DE GESTIÓN MIGRATORIA",
+                "valor": "4047"
+            },
+            {
+                "nombre": "POLICÍA-EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITUD DE APATRIDIA",
+                "valor": "4077"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Girona": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "AUT. DE RESIDENCIA TEMPORAL POR CIRCUNS. EXCEPCIONALES POR ARRAIGO",
+                "valor": "10"
+            },
+            {
+                "nombre": "ESTANCIA POR ESTUDIOS",
+                "valor": "4016"
+            },
+            {
+                "nombre": "FAMILIARES DE RESIDENTES COMUNITARIOS",
+                "valor": "7"
+            },
+            {
+                "nombre": "RENOVACIONES, PRÓRROGAS Y MODIFICACIONES",
+                "valor": "4059"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - OTROS TRÁMITES COMISARIA",
+                "valor": "8"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA - UCRANIA : SOLICITUD PROTECCIÓN TEMPORAL DESPLAZADOS",
+                "valor": "4111"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Sevilla": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "POLICIA - CERTIFICADOS CONCORDANCIA",
+                "valor": "4118"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA - TÍTULOS DE VIAJE",
+                "valor": "4092"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE (NO COMUNITARIOS)",
+                "valor": "4079"
+            },
+            {
+                "nombre": "POLICÍA - SOLICITUD DE APATRIDA",
+                "valor": "4103"
+            },
+            {
+                "nombre": "POLICÍA - UCRANIA : SOLICITUD PROTECCIÓN TEMPORAL DESPLAZADOS",
+                "valor": "4111"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ],
+        "tramites_policia_nacional": []
+    },
+    "Cuenca": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "ACCESO A 1ª AUT. DE RESIDENCIA DE LARGA DURACIÓN Y LARGA DURACIÓN UE",
+                "valor": "30"
+            },
+            {
+                "nombre": "AUT. DE RESIDENCIA TEMPORAL POR CIRCUNS. EXCEPCIONALES POR ARRAIGO",
+                "valor": "10"
+            },
+            {
+                "nombre": "AUTORIZACIONES INICIALES DE TRABAJO",
+                "valor": "4072"
+            },
+            {
+                "nombre": "AUTORIZACIÓN DE REGRESO",
+                "valor": "4058"
+            },
+            {
+                "nombre": "AUTORIZACIÓN DE RESIDENCIA DE MENORES NACIDOS EN ESPAÑA, HIJOS DE RESIDENTES",
+                "valor": "28"
+            },
+            {
+                "nombre": "FAMILIARES DE RESIDENTES COMUNITARIOS",
+                "valor": "4060"
+            },
+            {
+                "nombre": "INCIDENCIAS TRÁMITES EXTRANJERÍA",
+                "valor": "4011"
+            },
+            {
+                "nombre": "INFORMACIÓN",
+                "valor": "4009"
+            },
+            {
+                "nombre": "PRORROGA DE ESTANCIA POR ESTUDIOS",
+                "valor": "27"
+            },
+            {
+                "nombre": "REAGRUPACIÓN FAMILIAR",
+                "valor": "3"
+            },
+            {
+                "nombre": "Recuperación de la autorización de larga duración UE",
+                "valor": "4035"
+            },
+            {
+                "nombre": "RENOVACIONES DE AUTORIZACIÓN DE RESIDENCIA CON TRABAJO",
+                "valor": "2"
+            },
+            {
+                "nombre": "RENOVACIÓN AUTORIZACIÓN RESIDENCIA POR REAGRUPACIÓN FAMILIAR",
+                "valor": "4017"
+            },
+            {
+                "nombre": "Resid. Menores NO nacidos en España",
+                "valor": "15"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - OTROS TRÁMITES COMISARIA",
+                "valor": "8"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Cáceres": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Lugo": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "ACCESO A 1ª AUT. DE RESIDENCIA DE LARGA DURACIÓN Y LARGA DURACIÓN UE",
+                "valor": "30"
+            },
+            {
+                "nombre": "AUT. DE RESIDENCIA TEMPORAL POR CIRCUNS. EXCEPCIONALES POR ARRAIGO",
+                "valor": "10"
+            },
+            {
+                "nombre": "AUT. RESIDENCIA POR OTRAS CIRCUNSTANCIAS EXCEPCIONALES",
+                "valor": "4004"
+            },
+            {
+                "nombre": "AUTORIZACIÓN DE RESIDENCIA DE MENORES NACIDOS EN ESPAÑA, HIJOS DE RESIDENTES",
+                "valor": "28"
+            },
+            {
+                "nombre": "ESTANCIA POR ESTUDIOS",
+                "valor": "4016"
+            },
+            {
+                "nombre": "FAMILIARES DE RESIDENTES COMUNITARIOS",
+                "valor": "4060"
+            },
+            {
+                "nombre": "INFORMACIÓN",
+                "valor": "4009"
+            },
+            {
+                "nombre": "PRORROGA DE ESTANCIA POR ESTUDIOS",
+                "valor": "27"
+            },
+            {
+                "nombre": "REAGRUPACIÓN FAMILIAR",
+                "valor": "3"
+            },
+            {
+                "nombre": "Recuperación de la autorización de larga duración",
+                "valor": "4034"
+            },
+            {
+                "nombre": "RENOVACIONES DE AUTORIZACIÓN DE RESIDENCIA CON TRABAJO",
+                "valor": "2"
+            },
+            {
+                "nombre": "RENOVACIONES DE RESIDENCIA NO LABORAL",
+                "valor": "4023"
+            },
+            {
+                "nombre": "RENOVACIÓN AUTORIZACIÓN RESIDENCIA POR REAGRUPACIÓN FAMILIAR",
+                "valor": "4017"
+            },
+            {
+                "nombre": "Resid. Menores NO nacidos en España",
+                "valor": "15"
+            },
+            {
+                "nombre": "Residencia Inicial",
+                "valor": "23"
+            },
+            {
+                "nombre": "TRABAJO Y RESIDENCIA INICIAL POR CUENTA AJENA",
+                "valor": "9"
+            },
+            {
+                "nombre": "TRABAJO Y RESIDENCIA INICIAL POR CUENTA PROPIA",
+                "valor": "1"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - COMUNICACIÓN DE CAMBIO DE DOMICILIO",
+                "valor": "4093"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA - TÍTULOS DE VIAJE",
+                "valor": "4092"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Valencia": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "ARRAIGO - CIRCUNSTANCIAS EXCEPCIONALES DANA (Poblaciones afectadas por R.D-Ley: 6/2024)",
+                "valor": "4125"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "Asignación de N.I.E.",
+                "valor": "4031"
+            },
+            {
+                "nombre": "AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA - CERTIFICADOS CONCORDANCIA",
+                "valor": "4118"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICÍA - UCRANIA : SOLICITUD PROTECCIÓN TEMPORAL DESPLAZADOS",
+                "valor": "4111"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Castellón": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "AUT. DE RESIDENCIA TEMPORAL POR CIRCUNS. EXCEPCIONALES POR ARRAIGO",
+                "valor": "10"
+            },
+            {
+                "nombre": "AUTORIZACIONES DE RESIDENCIA",
+                "valor": "12"
+            },
+            {
+                "nombre": "FAMILIARES DE RESIDENTES COMUNITARIOS",
+                "valor": "4060"
+            },
+            {
+                "nombre": "INFORMACIÓN",
+                "valor": "4009"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICÍA - UCRANIA : SOLICITUD PROTECCIÓN TEMPORAL DESPLAZADOS",
+                "valor": "4111"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-RECOGIDA DE TARJETA ROJA (PROTECCIÓN INTERNACIONAL)",
+                "valor": "4086"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Tarragona": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "AUT. DE RESIDENCIA TEMPORAL POR CIRCUNS. EXCEPCIONALES POR ARRAIGO",
+                "valor": "10"
+            },
+            {
+                "nombre": "AUT. DE RESIDENCIA TEMPORAL POR CIRCUNS.EXCEPCIONALES ARRAIGO FAMILIAR",
+                "valor": "4014"
+            },
+            {
+                "nombre": "AUTORIZACIÓN DE RESIDENCIA DE MENORES NACIDOS EN ESPAÑA, HIJOS DE RESIDENTES",
+                "valor": "28"
+            },
+            {
+                "nombre": "FAMILIARES DE RESIDENTES COMUNITARIOS",
+                "valor": "7"
+            },
+            {
+                "nombre": "REAGRUPACIÓN FAMILIAR",
+                "valor": "3"
+            },
+            {
+                "nombre": "RENOVACIONES DE AUT. DE RESIDENCIA  y/o  AUT. DE RESIDENCIA Y TRABAJO",
+                "valor": "4002"
+            },
+            {
+                "nombre": "Trámite documentación nacionales terceros países familiares de nacionales del Reino Unido (Brexit)",
+                "valor": "4095"
+            },
+            {
+                "nombre": "Trámite para la documentación de nacionales del Reino Unido (Brexit)",
+                "valor": "4069"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "Asignación de N.I.E.",
+                "valor": "4031"
+            },
+            {
+                "nombre": "AUTORIZACIONES DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA - CERTIFICADOS CONCORDANCIA",
+                "valor": "4118"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA - TÍTULOS DE VIAJE",
+                "valor": "4092"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-EXPEDICIÓN DE CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA - UCRANIA : SOLICITUD PROTECCIÓN TEMPORAL DESPLAZADOS",
+                "valor": "4111"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Melilla": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "AUTORIZACIONES DE RESIDENCIA PARA MENORES NO ACOMPAÑADOS Y EXTUTELADOS",
+                "valor": "4108"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - OTROS TRÁMITES COMISARIA",
+                "valor": "8"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICÍA - AUTORIZACION EXCEPCIONAL DE ENTRADA",
+                "valor": "4098"
+            },
+            {
+                "nombre": "POLICÍA - CÉDULA DE INSCRIPCIÓN",
+                "valor": "4099"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA- TRABAJADOR FRONTERIZO (EXPEDICIÓN DE TARJETA)",
+                "valor": "4120"
+            },
+            {
+                "nombre": "POLICÍA-EXP.TARJETA ASOCIADA AL ACUERDO DE RETIRADA CIUDADANOS BRITÁNICOS Y SUS FAMILIARES (BREXIT)",
+                "valor": "4094"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Araba": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES INICIALES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - OTROS TRÁMITES COMISARIA",
+                "valor": "8"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICÍA - SOLICITUD DE APATRIDA",
+                "valor": "4103"
+            },
+            {
+                "nombre": "POLICÍA - UCRANIA : SOLICITUD PROTECCIÓN TEMPORAL DESPLAZADOS",
+                "valor": "4111"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Córdoba": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - CERTIFICADOS CONCORDANCIA",
+                "valor": "4118"
+            },
+            {
+                "nombre": "POLICIA - COMUNICACIÓN DE CAMBIO DE DOMICILIO",
+                "valor": "4093"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- RESGUARDO PRÓRROGA DE DERECHOS POR RECURSO ADMINISTRATIVO O JUDICIAL ASILO",
+                "valor": "4117"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA - SOLICITUD DE APATRIDA",
+                "valor": "4103"
+            },
+            {
+                "nombre": "POLICÍA - UCRANIA : SOLICITUD PROTECCIÓN TEMPORAL DESPLAZADOS",
+                "valor": "4111"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-EXP.TARJETA ASOCIADA AL ACUERDO DE RETIRADA CIUDADANOS BRITÁNICOS Y SUS FAMILIARES (BREXIT)",
+                "valor": "4094"
+            },
+            {
+                "nombre": "POLICÍA-RECOGIDA DE TARJETA ROJA (PROTECCIÓN INTERNACIONAL)",
+                "valor": "4086"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Zaragoza": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "INFORMACIÓN",
+                "valor": "4009"
+            },
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            },
+            {
+                "nombre": "Trámites para la documentación de nacionales de la Unión Europea",
+                "valor": "4080"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "Asignación de N.I.E.",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- RESGUARDO PRÓRROGA DE DERECHOS POR RECURSO ADMINISTRATIVO O JUDICIAL ASILO",
+                "valor": "4117"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Burgos": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Albacete": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "POLICIA - CERTIFICADOS CONCORDANCIA",
+                "valor": "4118"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA - TÍTULOS DE VIAJE",
+                "valor": "4092"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE (NO COMUNITARIOS)",
+                "valor": "4079"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA - CÉDULA DE INSCRIPCIÓN",
+                "valor": "4099"
+            },
+            {
+                "nombre": "POLICÍA - SOLICITUD DE APATRIDA",
+                "valor": "4103"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITUD DE APATRIDIA",
+                "valor": "4077"
+            },
+            {
+                "nombre": "POLICÍA-RECOGIDA DE TARJETA ROJA (PROTECCIÓN INTERNACIONAL)",
+                "valor": "4086"
+            },
+            {
+                "nombre": "POLICÍA-SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ],
+        "tramites_policia_nacional": []
+    },
+    "Murcia": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-Asignación de NIE - Murcia",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-Autorización de Regreso - Murcia",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-Expedición de Carta de Invitación - Murcia",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICÍA - SOLICITUD DE APATRIDA",
+                "valor": "4103"
+            },
+            {
+                "nombre": "POLICÍA - UCRANIA : SOLICITUD PROTECCIÓN TEMPORAL DESPLAZADOS",
+                "valor": "4111"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Almería": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "AUT. DE RESIDENCIA TEMPORAL POR CIRCUNS. EXCEPCIONALES POR ARRAIGO",
+                "valor": "10"
+            },
+            {
+                "nombre": "FAMILIARES DE RESIDENTES COMUNITARIOS",
+                "valor": "4060"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Guadalajara": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICÍA - UCRANIA : SOLICITUD PROTECCIÓN TEMPORAL DESPLAZADOS",
+                "valor": "4111"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Navarra": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "Solicitudes de Autorizaciones Iniciales",
+                "valor": "4"
+            },
+            {
+                "nombre": "Solicitudes de Renovación, Modificación y Autorización de Residencia de Larga Duración",
+                "valor": "4059"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - OTROS TRÁMITES COMISARIA",
+                "valor": "8"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-Expedición de Carta de Invitación",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICÍA - SOLICITUD DE APATRIDA",
+                "valor": "4103"
+            },
+            {
+                "nombre": "POLICÍA - UCRANIA : SOLICITUD PROTECCIÓN TEMPORAL DESPLAZADOS",
+                "valor": "4111"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "A Coruña": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "ACCESO A 1ª AUT. DE RESIDENCIA DE LARGA DURACIÓN Y LARGA DURACIÓN UE",
+                "valor": "30"
+            },
+            {
+                "nombre": "AUT. DE RESIDENCIA TEMPORAL POR CIRCUNS. EXCEPCIONALES POR ARRAIGO",
+                "valor": "10"
+            },
+            {
+                "nombre": "AUTORIZACIONES DE TRABAJO POR ESTUDIOS",
+                "valor": "17"
+            },
+            {
+                "nombre": "AUTORIZACIÓN DE RESIDENCIA DE MENORES",
+                "valor": "4008"
+            },
+            {
+                "nombre": "ESTANCIA POR ESTUDIOS",
+                "valor": "4016"
+            },
+            {
+                "nombre": "FAMILIARES DE RESIDENTES COMUNITARIOS",
+                "valor": "4060"
+            },
+            {
+                "nombre": "PRORROGA DE ESTANCIA POR ESTUDIOS",
+                "valor": "27"
+            },
+            {
+                "nombre": "REAGRUPACIÓN FAMILIAR",
+                "valor": "3"
+            },
+            {
+                "nombre": "RENOVACIONES DE AUT. DE RESIDENCIA  y/o  AUT. DE RESIDENCIA Y TRABAJO",
+                "valor": "4002"
+            },
+            {
+                "nombre": "RENOVACIONES DE AUTORIZACIÓN DE RESIDENCIA CON TRABAJO",
+                "valor": "2"
+            },
+            {
+                "nombre": "RENOVACIÓN AUTORIZACIÓN RESIDENCIA POR REAGRUPACIÓN FAMILIAR",
+                "valor": "4017"
+            },
+            {
+                "nombre": "TRABAJO Y RESIDENCIA INICIAL POR CUENTA AJENA",
+                "valor": "9"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-ASILO INFORMACION",
+                "valor": "4089"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS UE",
+                "valor": "22"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA - UCRANIA : SOLICITUD PROTECCIÓN TEMPORAL DESPLAZADOS",
+                "valor": "4111"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Salamanca": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "INFORMACIÓN",
+                "valor": "4009"
+            },
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - OTROS TRÁMITES COMISARIA",
+                "valor": "8"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Ourense": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-CONSULTA N.º DE NIE ASIGNADO",
+                "valor": "4122"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Bizkaia": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "RENOVACIONES, PRÓRROGAS O MODIFICACIONES",
+                "valor": "4059"
+            },
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES INICIALES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "Expedición de Carta de Invitación",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA - TÍTULOS DE VIAJE",
+                "valor": "4092"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICÍA - UCRANIA : SOLICITUD PROTECCIÓN TEMPORAL DESPLAZADOS",
+                "valor": "4111"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITUD DE APATRIDIA",
+                "valor": "4077"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Toledo": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "INFORMACIÓN",
+                "valor": "4009"
+            },
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - CERTIFICADOS CONCORDANCIA",
+                "valor": "4118"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Las Palmas": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "AUTORIZACIÓN DE REGRESO",
+                "valor": "4058"
+            },
+            {
+                "nombre": "NOTIFICACIONES EN TEU-BOE",
+                "valor": "4085"
+            },
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - CERTIFICADOS CONCORDANCIA",
+                "valor": "4118"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Alicante": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": " AUTORIZACIONES DE RESIDENCIA TEMPORAL Y PERMANENTE DE FAMILIAR DE CIUDADANO DE LA UNION EUROPEA",
+                "valor": "7"
+            },
+            {
+                "nombre": "AUTORIZACIONES DE RESIDENCIA TEMPORAL POR MOTIVOS DE ARRAIGO Y OTRAS CIRCUNSTANCIAS EXCEPCIONALES",
+                "valor": "4012"
+            },
+            {
+                "nombre": "AUTORIZACIONES DE TRABAJO, RENOVACIONES, PRÓRROGAS Y MODIFICACIONES",
+                "valor": "11"
+            },
+            {
+                "nombre": "AUTORIZACIÓN DE REGRESO",
+                "valor": "4058"
+            },
+            {
+                "nombre": "AUTORIZACIÓN DE RESIDENCIA DE MENORES O INCAPACITADOS NACIDOS EN ESPAÑA",
+                "valor": "28"
+            },
+            {
+                "nombre": "AUTORIZACIÓN DE RESIDENCIA DE MENORES O INCAPACITADOS NO NACIDOS EN ESPAÑA",
+                "valor": "15"
+            },
+            {
+                "nombre": "AUTORIZACIÓN DE RESIDENCIA TEMPORAL POR REAGRUPACIÓN FAMILIAR",
+                "valor": "3"
+            },
+            {
+                "nombre": "ESTANCIA POR ESTUDIOS",
+                "valor": "4016"
+            },
+            {
+                "nombre": "INFORMACIÓN",
+                "valor": "4009"
+            },
+            {
+                "nombre": "MODIFICACIÓN de las SITUACIONES (sujeto legitimado EXTRANJERO)",
+                "valor": "4030"
+            },
+            {
+                "nombre": "Recuperación de la autorización de larga duración",
+                "valor": "4034"
+            },
+            {
+                "nombre": "REGISTRO",
+                "valor": "4081"
+            },
+            {
+                "nombre": "RENOVACIONES DE RESIDENCIA NO LABORAL",
+                "valor": "4023"
+            },
+            {
+                "nombre": "Renovaciones, Prórrogas y Modificaciones",
+                "valor": "4059"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "Asignación de N.I.E.",
+                "valor": "4031"
+            },
+            {
+                "nombre": "Certificado de residente o no residente",
+                "valor": "4032"
+            },
+            {
+                "nombre": "CERTIFICADOS UE",
+                "valor": "22"
+            },
+            {
+                "nombre": "POLICIA - CERTIFICADOS CONCORDANCIA",
+                "valor": "4118"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICÍA - UCRANIA : SOLICITUD PROTECCIÓN TEMPORAL DESPLAZADOS",
+                "valor": "4111"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Huesca": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "AUT. DE RESIDENCIA TEMPORAL POR CIRCUNS. EXCEPCIONALES",
+                "valor": "10"
+            },
+            {
+                "nombre": "FAMILIARES DE ESPAÑOLES Y DE OTROS PAÍSES DE LA UE ",
+                "valor": "4060"
+            },
+            {
+                "nombre": "REAGRUPACIÓN FAMILIAR",
+                "valor": "3"
+            },
+            {
+                "nombre": "RENOVACIONES, MODIFICACIONES Y OTRAS AUTORIZACIONES",
+                "valor": "4059"
+            },
+            {
+                "nombre": "TRABAJO Y RESIDENCIA INICIAL POR CUENTA AJENA",
+                "valor": "9"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS UE",
+                "valor": "22"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Pontevedra": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "ACCESO A 1ª AUT. DE RESIDENCIA DE LARGA DURACIÓN Y LARGA DURACIÓN UE",
+                "valor": "30"
+            },
+            {
+                "nombre": "AUT. DE RESIDENCIA TEMPORAL POR CIRCUNS. EXCEPCIONALES POR ARRAIGO",
+                "valor": "10"
+            },
+            {
+                "nombre": "AUT. DE RESIDENCIA TEMPORAL POR CIRCUNS. EXCEPCIONALES POR ARRAIGO FAMILIAR",
+                "valor": "4014"
+            },
+            {
+                "nombre": "AUT. RESIDENCIA POR OTRAS CIRCUNSTANCIAS EXCEPCIONALES",
+                "valor": "4004"
+            },
+            {
+                "nombre": "AUTORIZACIONES DE RESIDENCIA",
+                "valor": "12"
+            },
+            {
+                "nombre": "AUTORIZACIONES DE TRABAJO",
+                "valor": "11"
+            },
+            {
+                "nombre": "AUTORIZACIÓN DE RESIDENCIA DE MENORES NACIDOS EN ESPAÑA, HIJOS DE RESIDENTES",
+                "valor": "28"
+            },
+            {
+                "nombre": "ESTANCIA POR ESTUDIOS",
+                "valor": "4016"
+            },
+            {
+                "nombre": "FAMILIARES DE RESIDENTES COMUNITARIOS",
+                "valor": "7"
+            },
+            {
+                "nombre": "INFORMACIÓN",
+                "valor": "4009"
+            },
+            {
+                "nombre": "REAGRUPACIÓN FAMILIAR",
+                "valor": "3"
+            },
+            {
+                "nombre": "Recuperación de la autorización de larga duración",
+                "valor": "4034"
+            },
+            {
+                "nombre": "Recuperación de la autorización de larga duración UE",
+                "valor": "4035"
+            },
+            {
+                "nombre": "RENOVACIONES DE AUTORIZACIÓN DE RESIDENCIA CON TRABAJO",
+                "valor": "2"
+            },
+            {
+                "nombre": "RENOVACIONES DE RESIDENCIA NO LABORAL",
+                "valor": "4023"
+            },
+            {
+                "nombre": "RENOVACIÓN AUTORIZACIÓN RESIDENCIA POR REAGRUPACIÓN FAMILIAR",
+                "valor": "4017"
+            },
+            {
+                "nombre": "Resid. Menores NO nacidos en España",
+                "valor": "15"
+            },
+            {
+                "nombre": "TRABAJO Y RESIDENCIA INICIAL POR CUENTA AJENA",
+                "valor": "9"
+            },
+            {
+                "nombre": "TRABAJO Y RESIDENCIA INICIAL POR CUENTA PROPIA",
+                "valor": "1"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - COMUNICACIÓN DE CAMBIO DE DOMICILIO",
+                "valor": "4093"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-Certificado de residente o no residente",
+                "valor": "4032"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS UE",
+                "valor": "22"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-CONSULTA N.º DE NIE ASIGNADO",
+                "valor": "4122"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Palencia": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "INFORMACIÓN",
+                "valor": "4009"
+            },
+            {
+                "nombre": "INFORMACIÓN POR VIDEOCONFERENCIA (No presencial)",
+                "valor": "4119"
+            },
+            {
+                "nombre": "SOLICITUD DE AUTORIZACIONES",
+                "valor": "4"
+            }
+        ],
+        "tramites_policia_nacional": [
+            {
+                "nombre": "POLICIA - OTROS TRÁMITES COMISARIA",
+                "valor": "8"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA- SOLICITUD ASILO",
+                "valor": "4078"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-INFORMACION DE TRÁMITES DE LA COMISARÍA DE POLICIA",
+                "valor": "4097"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ]
+    },
+    "Barcelona": {
+        "tramites_oficinas_extranjeria": [
+            {
+                "nombre": "AUTORIZACIÓN DE REGRESO",
+                "valor": "20"
+            },
+            {
+                "nombre": "POLICIA - CERTIFICADOS CONCORDANCIA",
+                "valor": "4118"
+            },
+            {
+                "nombre": "POLICIA - RECOGIDA DE TARJETA DE IDENTIDAD DE EXTRANJERO (TIE)",
+                "valor": "4036"
+            },
+            {
+                "nombre": "POLICIA - TÍTULOS DE VIAJE",
+                "valor": "4092"
+            },
+            {
+                "nombre": "POLICIA- EXPEDICIÓN/RENOVACIÓN DE DOCUMENTOS DE SOLICITANTES DE ASILO",
+                "valor": "4067"
+            },
+            {
+                "nombre": "POLICIA-ASIGNACIÓN DE NIE",
+                "valor": "4031"
+            },
+            {
+                "nombre": "POLICIA-CARTA DE INVITACIÓN",
+                "valor": "4037"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADO DE REGISTRO DE CIUDADANO DE LA U.E.",
+                "valor": "4038"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS (DE RESIDENCIA, DE NO RESIDENCIA Y DE CONCORDANCIA)",
+                "valor": "4049"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE",
+                "valor": "4096"
+            },
+            {
+                "nombre": "POLICIA-CERTIFICADOS Y ASIGNACION NIE (NO COMUNITARIOS)",
+                "valor": "4079"
+            },
+            {
+                "nombre": "POLICÍA TARJETA CONFLICTO UCRANIA–ПОЛІЦІЯ -КАРТКА ДЛЯ ПЕРЕМІЩЕНИХ ОСІБ ВНАСЛІДОК КОНФЛІКТУ В УКРАЇНІ",
+                "valor": "4112"
+            },
+            {
+                "nombre": "POLICÍA-EXP.TARJETA ASOCIADA AL ACUERDO DE RETIRADA CIUDADANOS BRITÁNICOS Y SUS FAMILIARES (BREXIT)",
+                "valor": "4094"
+            },
+            {
+                "nombre": "POLICÍA-EXPEDICIÓN DE TARJETAS CUYA AUTORIZACIÓN RESUELVE LA DIRECCIÓN GENERAL DE GESTIÓN MIGRATORIA",
+                "valor": "4047"
+            },
+            {
+                "nombre": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
+                "valor": "4010"
+            }
+        ],
+        "tramites_policia_nacional": []
+    }
+}
