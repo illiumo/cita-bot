@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import telebot
-from telebot.types import ReplyKeyboardMarkup, InlineKeyboardMarkup, InlineKeyboardButton
+from telebot.types import (ReplyKeyboardMarkup, InlineKeyboardMarkup, InlineKeyboardButton)
 
 # Токен бота
 TOKEN = "8029955410:AAELfmyIB8VriWQqfYimN4RCVzKSMHKsr9s"
