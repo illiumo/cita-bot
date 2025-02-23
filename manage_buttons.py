@@ -191,13 +191,5 @@ def finalize_subscription(message):
     bot.send_message(chat_id, f"✅ Подписка оформлена!\n\n{added_sub}", reply_markup=main_menu)
     user_states.pop(chat_id, None)
 
-
-if __name__ == "__main__":
-    print("Бот запущен...")
-    bot.polling(none_stop=True)
-
-
-
-
 if __name__ == "__main__":
     bot.polling(none_stop=True)
