@@ -3,6 +3,7 @@ import json
 import os
 import telebot
 from telebot.types import (ReplyKeyboardMarkup, InlineKeyboardMarkup, InlineKeyboardButton, KeyboardButton)
+from db_manager import add_subscription
 
 translations = {
     "en": {
@@ -65,6 +66,8 @@ all_provinces = [
     "Salamanca", "S.Cruz Tenerife", "Segovia", "Sevilla", "Soria", "Tarragona", "Teruel", "Toledo",
     "Valencia", "Valladolid", "Zamora", "Zaragoza"
 ]
+
+user_states = {}
 
 language_file = "user_lang.json"
 if not os.path.exists(language_file):
@@ -190,6 +193,50 @@ def set_language(call):
 def get_translation(user_id, k):
     lang = user_lang.get(user_id, "en")
     return translations.get(lang, {}).get(k, "Translation not found!")
+
+def ask_all_addresses(chat_id):
+    markup = InlineKeyboardMarkup()
+    markup.add(
+        InlineKeyboardButton("Все адреса", callback_data="addresses_all"),
+        InlineKeyboardButton("Указать адреса", callback_data="addresses_custom")
+    )
+    bot.send_message(chat_id, "Хотите подписаться на все адреса или выбрать конкретные?", reply_markup=markup)
+
+
+@bot.callback_query_handler(func=lambda call: call.data == "addresses_all")
+def addresses_all_handler(call):
+    user_states[call.message.chat.id]['addresses'] = ['ALL']
+    finalize_subscription(call.message)
+
+
+@bot.callback_query_handler(func=lambda call: call.data == "addresses_custom")
+def addresses_custom_handler(call):
+    bot.send_message(call.message.chat.id, "Введите список адресов (через запятую): ")
+    bot.register_next_step_handler(call.message, save_addresses)
+
+
+def save_addresses(message):
+    addresses = [addr.strip() for addr in message.text.split(",") if addr.strip()]
+    user_states[message.chat.id]['addresses'] = addresses
+    finalize_subscription(message)
+
+
+def finalize_subscription(message):
+    chat_id = message.chat.id
+    data = user_states[chat_id]
+    province = data['province']
+    procedure = data['procedure']
+    addresses = data['addresses']
+
+    service_name = "7 дневная подписка"
+    phone_number = ""
+    user_id = chat_id
+    telegram_handle = f"@{message.from_user.username}" if message.from_user.username else ""
+
+    added_sub = add_subscription(user_id, telegram_handle, phone_number, service_name, province, procedure, addresses, 7)
+
+    bot.send_message(chat_id, f"✅ Подписка оформлена!\n\n{added_sub}", reply_markup=get_main_menu(chat_id))
+    user_states.pop(chat_id, None)
 
 if __name__ == "__main__":
     bot.polling(none_stop=True)
