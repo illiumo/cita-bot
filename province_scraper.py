@@ -160,6 +160,8 @@ async def scrape_all_provinces():
 
         print(f"=== Батч {batch_index} готов! ===")
 
+
+
         # После каждого батча – большая пауза, чтобы "остыть"
         if batch_index < len(batches):
             sleep_minutes = random.randint(3, 8)  # меняйте диапазон на более долгий, если нужно
