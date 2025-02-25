@@ -1,7 +1,7 @@
 from sqlalchemy.dialects.postgresql import ARRAY
-from sqlalchemy import Column, Integer, String, ForeignKey, DateTime
+from sqlalchemy import Column, Integer, String, ForeignKey, DateTime, BigInteger
 from sqlalchemy.orm import relationship
-from setup import Base
+from database.setup import Base
 
 
 class User(Base):
@@ -15,6 +15,7 @@ class Subscription(Base):
     __tablename__ = 'subscriptions'
     subscription_id = Column(Integer, primary_key=True, index=True)
     user_id = Column(Integer, ForeignKey('users.user_id'), nullable=False)
+    telegram_id = Column(BigInteger, nullable=False)
     service_name = Column(String, nullable=False)
     province = Column(String, nullable=False)
     procedure = Column(String, nullable=False)

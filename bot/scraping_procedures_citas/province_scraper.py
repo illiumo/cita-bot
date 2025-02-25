@@ -3,7 +3,7 @@ import json
 import random
 from playwright.async_api import async_playwright
 
-CONFIG_FILE = "config.json"
+CONFIG_FILE = "../utils/config.json"
 BASE_URL = "https://icp.administracionelectronica.gob.es/icpplus/index.html"
 
 USER_AGENTS = [

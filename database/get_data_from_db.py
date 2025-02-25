@@ -12,7 +12,7 @@ try:
     subscriptions = session.query(Subscription).all()
     print("\nSubscriptions:")
     for sub in subscriptions:
-        print(f"- ID: {sub.subscription_id}, UserID: {sub.user_id}, Service: {sub.service_name}, Status: {sub.status}")
+        print(f"- ID: {sub.subscription_id}, UserID: {sub.user_id}, Service: {sub.service_name}, Status: {sub.status}, Province: {sub.province}")
 
     subscription_indices = session.query(SubscriptionIndex).all()
     print("\nSubscription Index:")

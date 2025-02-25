@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
+import datetime
 import json
 import os
 import telebot
 from telebot.types import (ReplyKeyboardMarkup, InlineKeyboardMarkup, InlineKeyboardButton, KeyboardButton)
-from db_manager import add_subscription
+from datetime import datetime, timedelta
+from db_manager import add_subscription_sqlalchemy
 
 translations = {
     "en": {
@@ -120,7 +122,7 @@ def handle_buttons(message):
     elif message.text == get_translation(user_id, "terms_menu"):
         handle_terms(message)
     elif message.text == get_translation(user_id, "add_sub_menu"):
-        add_subscription(message)
+        add_subscription_command(message)
     elif message.text == get_translation(user_id, "mng_sub_menu"):
         bot.send_message(user_id, "This feature is not yet implemented.")
 
@@ -133,14 +135,10 @@ def language(message):
     lang_menu.add(InlineKeyboardButton("🇺🇦 Українська" , callback_data="lang_ua"))
     bot.send_message(message.chat.id, get_translation(message.chat.id, "select_language"), reply_markup=lang_menu)
 
-
+file_path = "/Utils/config.json"
 PROVINCES_PER_PAGE = 8
+PROCEDURES_PER_PAGE = 8
 
-
-def get_province_page(page=0):
-    start = page * PROVINCES_PER_PAGE
-    end = start + PROVINCES_PER_PAGE
-    return all_provinces[start:end]
 
 
 @bot.message_handler(commands=["terms"])
@@ -148,33 +146,10 @@ def handle_terms(message):
     user_id = message.chat.id
     bot.send_message(user_id, get_translation(user_id, "terms"))
 
-
-@bot.message_handler(commands=['add_subscription'])
-def add_subscription(message, page=0, message_id=None):
-    provinces_menu = InlineKeyboardMarkup(row_width=2)
-    provinces = get_province_page(page)
-    buttons = [InlineKeyboardButton(province, callback_data=f"sub_{province}") for province in provinces]
-    provinces_menu.add(*buttons)
-    user_id = message.chat.id
-
-    if (page + 1) * PROVINCES_PER_PAGE < len(all_provinces):
-        provinces_menu.add(InlineKeyboardButton(get_translation(user_id, "next"), callback_data=f"sub_next_{page + 1}"))
-
-    if (page - 1) * PROVINCES_PER_PAGE > -8:
-        provinces_menu.add(InlineKeyboardButton(get_translation(user_id, "prev"), callback_data=f"sub_next_{page - 1}"))
-
-    if message_id:
-        bot.edit_message_reply_markup(message.chat.id, message_id, reply_markup=provinces_menu)
-    else:
-        sent_message = bot.send_message(message.chat.id, get_translation(user_id, "choose_province"),
-                                        reply_markup=provinces_menu)
-        bot.register_next_step_handler(sent_message, add_subscription, page=page, message_id=sent_message.message_id)
-
-
 @bot.callback_query_handler(func=lambda call: call.data.startswith("sub_next_"))
 def next_page_callback(call):
     page = int(call.data.split("_")[-1])
-    add_subscription(call.message, page=page, message_id=call.message.message_id)
+    add_subscription_command(call.message, page=page, message_id=call.message.message_id)
     bot.answer_callback_query(call.id)
 
 
@@ -206,37 +181,269 @@ def ask_all_addresses(chat_id):
 @bot.callback_query_handler(func=lambda call: call.data == "addresses_all")
 def addresses_all_handler(call):
     user_states[call.message.chat.id]['addresses'] = ['ALL']
-    finalize_subscription(call.message)
+    finalize_subscription(call)
 
+
+@bot.message_handler(commands=['add_subscription'])
+def add_subscription_command(message):
+    user_states[message.chat.id] = {}
+    show_province_page(message.chat.id, 0)
+
+
+def get_province_page(page=0):
+    start = page * PROVINCES_PER_PAGE
+    end = start + PROVINCES_PER_PAGE
+    return all_provinces[start:end]
+
+def get_procedures_by_province(province_name):
+    """Получает список процедур по провинции из JSON файла"""
+    with open(file_path, "r", encoding="utf-8") as file:
+        data = json.load(file)
+
+    province_data = data.get(province_name, {})
+
+    # Собираем все процедуры в один список
+    procedures = []
+    for category in ["tramites_oficinas_extranjeria", "tramites_policia_nacional"]:
+        if category in province_data:
+            procedures.extend(province_data[category])  # Добавляем все процедуры
+
+    return procedures  # Теперь это список, а не словарь
+
+
+
+def get_procedures_page(province_name, page=0):
+    """Возвращает часть процедур по указанной провинции для пагинации"""
+    all_procedures = get_procedures_by_province(province_name)
+
+    if not isinstance(all_procedures, list):
+        print(f"❌ Ошибка! Ожидался список, но пришло: {type(all_procedures)} -> {all_procedures}")
+        return []
+
+    start = page * PROCEDURES_PER_PAGE
+    end = start + PROCEDURES_PER_PAGE
+    return all_procedures[start:end]
+
+
+
+def show_province_page(chat_id, page):
+    provinces_menu = InlineKeyboardMarkup(row_width=2)
+    provinces = get_province_page(page)
+    buttons = [
+        InlineKeyboardButton(province, callback_data=f"choose_province|{province}")
+        for province in provinces
+    ]
+    provinces_menu.add(*buttons)
+
+    if (page + 1) * PROVINCES_PER_PAGE < len(all_provinces):
+        provinces_menu.add(
+            InlineKeyboardButton("➡️ Далее", callback_data=f"province_next|{page + 1}")
+        )
+
+    bot.send_message(chat_id, "📍 Выберите провинцию:", reply_markup=provinces_menu)
+
+
+def show_procedures_page(chat_id, page, message_id=None):
+    """Отображает список процедур по выбранной провинции и добавляет кнопки "Назад"."""
+    province = user_states.get(chat_id, {}).get("province")
+    if not province:
+        bot.send_message(chat_id, "⚠️ Ошибка: провинция не выбрана. Попробуйте снова.")
+        return
+
+    procedures = get_procedures_page(province, page)
+
+    if not procedures:
+        bot.send_message(chat_id, f"❌ Нет доступных процедур для {province}.")
+        return
+
+    procedures_menu = InlineKeyboardMarkup(row_width=1)
+
+    # Создаем кнопки для процедур
+    buttons = [
+        InlineKeyboardButton(proc["nombre"], callback_data=f"choose_procedure|{proc['valor']}")
+        for proc in procedures if isinstance(proc, dict) and "nombre" in proc and "valor" in proc
+    ]
+
+    if not buttons:
+        bot.send_message(chat_id, "⚠️ Ошибка: не удалось загрузить процедуры.")
+        return
+
+    procedures_menu.add(*buttons)
+
+    # Добавляем кнопки "Назад" и "Назад к выбору провинции"
+    navigation_buttons = []
+    if page > 0:
+        navigation_buttons.append(InlineKeyboardButton("⬅️ Назад", callback_data=f"procedures_prev|{page - 1}"))
+    if (page + 1) * PROCEDURES_PER_PAGE < len(get_procedures_by_province(province)):
+        navigation_buttons.append(InlineKeyboardButton("➡️ Далее", callback_data=f"procedures_next|{page + 1}"))
+
+    if navigation_buttons:
+        procedures_menu.add(*navigation_buttons)
+
+    procedures_menu.add(InlineKeyboardButton("🔙 Назад к выбору провинции", callback_data="back_to_provinces"))
+
+    last_message_id = user_states.get(chat_id, {}).get("last_message_id")
+    if last_message_id:
+        try:
+            bot.delete_message(chat_id, last_message_id)
+        except:
+            pass  # Если сообщение уже удалено, пропускаем
+
+    sent_message = bot.send_message(chat_id, "📝 Выберите процедуру:", reply_markup=procedures_menu)
+    user_states[chat_id]["last_message_id"] = sent_message.message_id
+
+@bot.callback_query_handler(func=lambda call: call.data == "back_to_provinces")
+def back_to_provinces(call):
+    """Позволяет вернуться к выбору провинции"""
+    chat_id = call.message.chat.id
+    show_province_page(chat_id, 0)
+    bot.delete_message(chat_id, call.message.message_id)
+
+@bot.callback_query_handler(func=lambda call: call.data.startswith("procedures_prev"))
+def procedures_prev_page(call):
+    """Обрабатывает нажатие кнопки 'Назад' для процедур"""
+    chat_id = call.message.chat.id
+    page = int(call.data.split("|")[-1])
+    show_procedures_page(chat_id, page)
+
+@bot.callback_query_handler(func=lambda call: call.data.startswith("procedures_next"))
+def procedures_next_page(call):
+    """Обрабатывает нажатие кнопки 'Далее' для процедур"""
+    chat_id = call.message.chat.id
+    page = int(call.data.split("|")[-1])
+    show_procedures_page(chat_id, page)
+
+@bot.callback_query_handler(func=lambda call: call.data.startswith("choose_province"))
+def choose_province(call):
+    """Обрабатывает выбор провинции и предлагает выбрать процедуру"""
+    _, province = call.data.split("|")
+    chat_id = call.message.chat.id
+    user_states[chat_id] = {'province': province}  # Сохраняем провинцию в user_states
+    bot.delete_message(chat_id, call.message.message_id)
+    bot.send_message(chat_id, f"📌 Вы выбрали провинцию: {province}")
+    show_procedures_page(chat_id, 0)
+
+def get_procedure(message):
+    """Пользователь вводит процедуру."""
+    chat_id = message.chat.id
+    procedure = message.text.strip()
+    user_states[chat_id]['procedure'] = procedure
+
+    bot.send_message(chat_id, f"📝 Процедура: {procedure}")
+    ask_all_addresses(chat_id)
+
+###############################################################################
+# Выбор адресов: все или конкретные
+###############################################################################
+def ask_all_addresses(chat_id):
+    """Предлагаем пользователю выбрать: все адреса или ввести конкретные."""
+    markup = InlineKeyboardMarkup()
+    markup.add(
+        InlineKeyboardButton("📍 Все адреса", callback_data="addresses_all"),
+        InlineKeyboardButton("🏢 Указать адреса", callback_data="addresses_custom")
+    )
+    bot.send_message(chat_id, "Выберите вариант подписки:", reply_markup=markup)
+
+@bot.callback_query_handler(func=lambda call: call.data == "addresses_all")
+def addresses_all_handler(call):
+    """Пользователь выбрал все адреса."""
+    chat_id = call.message.chat.id
+    if chat_id not in user_states:
+        bot.send_message(chat_id, "⚠️ Сначала введите /add_subscription.")
+        return
+
+    user_states[chat_id]['addresses'] = ['ALL']
+    select_subscription_plan(call.message)
 
 @bot.callback_query_handler(func=lambda call: call.data == "addresses_custom")
 def addresses_custom_handler(call):
-    bot.send_message(call.message.chat.id, "Введите список адресов (через запятую): ")
+    """Пользователь хочет ввести адреса вручную."""
+    chat_id = call.message.chat.id
+    if chat_id not in user_states:
+        bot.send_message(chat_id, "⚠️ Сначала введите /add_subscription.")
+        return
+
+    bot.send_message(chat_id, "🏢 Введите список адресов (через запятую):")
     bot.register_next_step_handler(call.message, save_addresses)
 
-
 def save_addresses(message):
-    addresses = [addr.strip() for addr in message.text.split(",") if addr.strip()]
-    user_states[message.chat.id]['addresses'] = addresses
-    finalize_subscription(message)
-
-
-def finalize_subscription(message):
+    """Пользователь вводит адрес(а) в тексте."""
     chat_id = message.chat.id
-    data = user_states[chat_id]
-    province = data['province']
-    procedure = data['procedure']
-    addresses = data['addresses']
+    if chat_id not in user_states:
+        bot.send_message(chat_id, "⚠️ Сначала введите /add_subscription.")
+        return
 
-    service_name = "7 дневная подписка"
-    phone_number = ""
-    user_id = chat_id
-    telegram_handle = f"@{message.from_user.username}" if message.from_user.username else ""
+    addresses = [addr.strip() for addr in message.text.split(",") if addr.strip()]
+    user_states[chat_id]['addresses'] = addresses
+    select_subscription_plan(message)
 
-    added_sub = add_subscription(user_id, telegram_handle, phone_number, service_name, province, procedure, addresses, 7)
+###############################################################################
+# Выбор тарифа
+###############################################################################
+def select_subscription_plan(message):
+    """Показываем кнопки: 7 дней, 14 дней, 30 дней."""
+    chat_id = message.chat.id
+    markup = InlineKeyboardMarkup()
+    markup.add(
+        InlineKeyboardButton("⭐ 750 на 7 дней", callback_data="sub_7"),
+        InlineKeyboardButton("👍 1500 на 14 дней", callback_data="sub_14"),
+        InlineKeyboardButton("📅 2500 на 30 дней", callback_data="sub_30")
+    )
+    bot.send_message(chat_id, "Выберите ваш вариант подписки:", reply_markup=markup)
 
-    bot.send_message(chat_id, f"✅ Подписка оформлена!\n\n{added_sub}", reply_markup=get_main_menu(chat_id))
-    user_states.pop(chat_id, None)
+###############################################################################
+# Завершение подписки
+###############################################################################
+@bot.callback_query_handler(func=lambda call: call.data.startswith("sub_"))
+def finalize_subscription(call):
+    """Пользователь выбрал срок подписки (7, 14, 30 дней)."""
+    chat_id = call.message.chat.id
+    try:
+        # Из call.data типа "sub_7" выделяем "7"
+        days_str = call.data.split("_")[1]
+        days = int(days_str)
+
+        # Получаем данные из user_states
+        data = user_states.get(chat_id, {})
+        if not data:
+            bot.send_message(chat_id, "⚠️ Ошибка: данные подписки не найдены. Попробуйте снова (/add_subscription).")
+            return
+
+        # Пример даты истечения (пока строка, если нужно, храним как datetime)
+        expiration_date = (datetime.utcnow() + timedelta(days=days)).strftime("%Y-%m-%d %H:%M:%S")
+
+        # Вызываем вашу функцию добавления в БД
+        # (Эту функцию напишите сами: add_subscription_sqlalchemy, например)
+        # Или если вам нужно expiration_date, добавьте параметр туда тоже
+        added_sub = add_subscription_sqlalchemy(
+            user_id=chat_id,
+            telegram_handle=f"@{call.from_user.username}" if call.from_user.username else "",
+            phone_number="",
+            service_name=f"{days} дневная подписка",
+            province=data.get('province', 'Не указано'),
+            procedure=data.get('procedure', 'Не указано'),
+            addresses=data.get('addresses', ['ALL']),
+            subscription_days=days,
+        )
+
+        # Сообщаем пользователю результат
+        bot.send_message(
+            chat_id,
+            "✅ *Подписка оформлена!* 🎉\n\n"
+            f"📌 *Процедура:* {data.get('procedure', 'Не указано')}\n"
+            f"📍 *Провинция:* {data.get('province', 'Не указано')}\n"
+            f"🏢 *Отделение:* {', '.join(data.get('addresses', ['ALL']))}\n"
+            f"📅 *Подписка действует до:* {expiration_date}\n\n"
+            "_Спасибо за использование нашего сервиса!_",
+            parse_mode="Markdown"
+        )
+        # Удаляем состояние
+        user_states.pop(chat_id, None)
+
+    except Exception as e:
+        bot.send_message(chat_id, f"❌ Ошибка: {str(e)}")
+
 
 if __name__ == "__main__":
+    print("🤖 Бот запущен...")
     bot.polling(none_stop=True)
